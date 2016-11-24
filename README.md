@@ -1,5 +1,5 @@
 # css-wireframe
-A tiny css file who is designed to offer an API directly in HTML file
+A tiny css file who is designed to offer an API directly in HTML file.
 
 This css file is written in functional css style, in other words contains only specific individual tasks.
 
