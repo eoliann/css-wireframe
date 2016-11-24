@@ -5,8 +5,8 @@ This css file is written in functional css style, in other words contains only s
 
 Is very simple to use, for example if we want to center an h1 tag inside a div tag, we should proceed as follows:
 
-"<div class="flex-center">
+<pre><div class="flex-center">
   <h1>flex-center is a class from css-wireframe</h1>
-</div>"
+</div></pre>
 
 
