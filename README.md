@@ -8,5 +8,5 @@ Is very simple to use, for example if we want to center an h1 tag inside a div t
 <div class="flex-center">
   <h1>flex-center is a class from css-wireframe</h1>
 </div>
-
+```
 
